@@ -29,5 +29,4 @@ export class App {
  return 'Pendiente';
  }
  // aporbado 
- 
 }
